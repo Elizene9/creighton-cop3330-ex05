@@ -1,3 +1,8 @@
+/*
+* UCF COP 3330 Summer 2021 Assignment 1 Solutions
+* Copyright 2021 Charlene Creighton
+ */
+
 package Exercise_5;
 /*
 Write a program that prompts for two numbers.
